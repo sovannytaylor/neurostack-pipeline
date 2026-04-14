@@ -1,13 +1,3 @@
-# image_analysis_template
+This repo was built for Boeynaems and Fazal lab quantifications related to neuro-related cell morphologies (dendrites on neurons, branching on microglia, etc)
 
-Experiment ID:
 
-Experiment Date: 
-
-Description of Experiment: 
-
-Channels used and order: 
-
-Peptides used:
-
-Cell segmentation tool: 
